@@ -1,0 +1,15 @@
+Initialize a Git repository : git init
+git add Section 1.1.pdf
+git add Section 3.1.pdf
+git add Section 5.1.pdf
+git rm --cahched Section 3.1.pdf
+git add Section 3.1.pdf
+git commit -m "added three files, removed second fiel then adding it again"
+git push https://github.com/YouhannaAdel/Startup.git master
+git branch ReadMe
+git add README.md
+git commit -m "added new file and branch named readme"
+git merge ReadMe
+add AllMyCommands.txt
+git commit -m "added AllMyCommands.txt"
+git push https://github.com/YouhannaAdel/Startup.git master
